@@ -69,5 +69,5 @@ If no data is found (e.g., user opens `game.html` directly), the page redirects 
 ## Live Demo
 Play the game here: https://rockpaperscissorsvscomputergame.netlify.app/
 
-## How to Run
-Use the live demo link, or open `index.html` locally in a web browser to begin the game.
+## How to Run Locally
+Clone or download the repository, then open `index.html` in a web browser.
