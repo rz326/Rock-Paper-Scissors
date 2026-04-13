@@ -66,5 +66,8 @@ If no data is found (e.g., user opens `game.html` directly), the page redirects 
 - Add sound effects and animations
 - Add difficulty levels or AI strategy
 
+## Live Demo
+Play the game here: https://rockpaperscissorsvscomputergame.netlify.app/
+
 ## How to Run
-Open `setup.html` in a web browser to begin the game.
+Use the live demo link, or open `index.html` locally in a web browser to begin the game.
