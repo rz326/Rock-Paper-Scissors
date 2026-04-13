@@ -23,7 +23,7 @@ const computerName = sessionStorage.getItem("computerName");
 const targetScore = parseInt(sessionStorage.getItem("targetScore"));
 
 if (!playerName || !computerName || !targetScore) {
-    window.location.href = "setup.html";
+    window.location.href = "index.html";
 }
 
 userLabel.textContent = playerName;
@@ -86,7 +86,7 @@ function resetEntireGame() {
     sessionStorage.removeItem("playerName");
     sessionStorage.removeItem("computerName");
     sessionStorage.removeItem("targetScore");
-    window.location.href = "setup.html";
+    window.location.href = "index.html";
 }
 
 function win(userChoice, computerChoice) {
